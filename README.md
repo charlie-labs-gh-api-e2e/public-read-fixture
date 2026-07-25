@@ -1,1 +1,3 @@
-# public-read-fixture
+# GitHub API live fixture
+
+Synthetic content only.
