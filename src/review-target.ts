@@ -1,3 +1,3 @@
 export function fixtureValue(): string {
-  return "base";
+  return "intermediate";
 }
